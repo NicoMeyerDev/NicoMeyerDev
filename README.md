@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, ich bin Nico 👋</h1>
 <h3 align="center">Backend Developer | Python | Automation | APIs</h3>
 
