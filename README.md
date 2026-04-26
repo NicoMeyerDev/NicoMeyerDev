@@ -1,52 +1,45 @@
-<h1 align="center">Hi, ich bin Nico 👋</h1>
-<h3 align="center">Backend Developer | Python | Automation | APIs</h3>
+# Hey, ich bin Nico 👋
 
----
+> *Auf dem Weg in die IT – fokussiert, neugierig, hands-on.*
 
-### 🚀 Über mich
+-----
 
-- 🧠 Fokus auf Backend-Entwicklung & Systemdenken  
-- 🛠️ Baue reale Tools (Terminbuchung, Automatisierung, APIs)  
-- 📊 Interesse an Data Analytics & KI  
-- 🔐 Perspektivisch DevSecOps  
+### 🧭 Über mich
 
----
+- 🐍 Lerne Backend-Entwicklung mit **Python, Django & Flask**
+- 🔐 Interesse an **DevSecOps** – sichere Systeme von Anfang an denken
+- 🤖 Baue Tools zur **Prozessautomatisierung**
+- 📊 Begeistert von **Datenanalyse** & dem was dahinter steckt
+- 🚀 Ziel: Einstieg in die IT als Backend- / DevSecOps-Entwickler
 
-### 🛠️ Tech Stack
+-----
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"/>
-</div>
+### 🛠️ Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+
+-----
 
 ### 📌 Aktuelle Projekte
 
-- 🗓️ Terminbuchungstool (Flask + Google Sheets Integration)
-- 📋 Kundenformular Web-App
-- 📊 Data Analytics Projekte mit Python
-- 🏠 Smart-Home Automatisierung
+|Projekt                |Beschreibung                                |Stack                   |
+|-----------------------|--------------------------------------------|------------------------|
+|🗓️ Terminbuchungstool   |Web-App zur automatisierten Terminverwaltung|Flask, Google Sheets API|
+|📋 Kundenformular App   |Dynamisches Formular mit Backend-Anbindung  |Python, Django          |
+|🏠 Smart-Home Automation|Automatisierungsscripts für den Alltag      |Python                  |
+|📊 Data Analytics       |Daten einlesen, auswerten, visualisieren    |Python                  |
 
----
+-----
 
-### 📈 GitHub Stats
+### 💬 Kontakt
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=default" />
-</p>
+Ich bin offen für Austausch, Feedback und Chancen – meld dich gerne!
 
----
-
-### 🔗 Connect
-
-<div align="left">
-  <a href="DEIN_LINKEDIN_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-</div>
+📫 Erreichbar über GitHub Issues oder Discussions.
