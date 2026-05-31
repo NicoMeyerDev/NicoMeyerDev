@@ -24,13 +24,12 @@ Auf dem Weg in die IT – fokussiert, neugierig und praxisorientiert.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 📌 Aktuelle Projekte
-Projekt	Beschreibung	Stack
-🧠 Quizzly	Erstellt mithilfe von KI aus Videotranskripten automatisch Quizfragen und Lerninhalte	Python, Django, AI APIs
-🎬 Videoflix	Business-Webanwendung inspiriert von Netflix mit Benutzer- und Videomanagement	Django, DRF, PostgreSQL
-📦 KanMind	Kanban-Board zur Organisation von Projekten, Aufgaben und Workflows	Django, DRF, PostgreSQL
-🗓️ Terminbuchungstool	Automatisierte Terminverwaltung mit Kalenderintegration	Flask, APIs
-📊 Data Analytics	Datenaufbereitung, Analyse und Visualisierung mit Python	Python, Pandas
-💬 Kontakt
+Projekt	Beschreibung
+🧠 Quizzly	Anwendung, die mithilfe von KI aus Videotranskripten automatisch Quizfragen erstellt.
+🎬 Videoflix	Business-Webanwendung nach dem Vorbild von Netflix mit Benutzer- und Videoverwaltung.
+📦 KanMind	Kanban-Board zur Organisation von Projekten, Aufgaben und Workflows.
+🗓️ Terminbuchungstool	Automatisierte Terminverwaltung mit Kalender- und API-Anbindung.
+📊 Data Analytics	Datenaufbereitung, Analyse und Visualisierung mit Python.
 
 Ich freue mich über Austausch, Feedback und spannende Möglichkeiten im IT-Bereich.
 
