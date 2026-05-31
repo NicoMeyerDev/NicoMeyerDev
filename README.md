@@ -23,13 +23,28 @@ Auf dem Weg in die IT – fokussiert, neugierig und praxisorientiert.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
-📌 Aktuelle Projekte
-Projekt	Beschreibung
-🧠 Quizzly	Anwendung, die mithilfe von KI aus Videotranskripten automatisch Quizfragen erstellt.
-🎬 Videoflix	Business-Webanwendung nach dem Vorbild von Netflix mit Benutzer- und Videoverwaltung.
-📦 KanMind	Kanban-Board zur Organisation von Projekten, Aufgaben und Workflows.
-🗓️ Terminbuchungstool	Automatisierte Terminverwaltung mit Kalender- und API-Anbindung.
-📊 Data Analytics	Datenaufbereitung, Analyse und Visualisierung mit Python.
+## 📌 Aktuelle Projekte
+
+| Projekt                    | Beschreibung                                                                                                      | Technologien              |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| 🧠 **Quizzly**             | KI-gestützte Anwendung, die aus Videotranskripten automatisch Quizfragen und Lerninhalte erstellt.                | Python · Django · KI APIs |
+| 🎬 **Videoflix**           | Business-Webanwendung nach dem Vorbild von Netflix mit Benutzerverwaltung, Authentifizierung und Videomanagement. | Django · DRF · PostgreSQL |
+| 📦 **KanMind**             | Kanban-Board zur Organisation von Projekten, Aufgaben und Workflows mit REST-API.                                 | Django · DRF · PostgreSQL |
+| 🗓️ **Terminbuchungstool** | Automatisierte Terminverwaltung mit Kalenderintegration und digitalen Buchungsprozessen.                          | Flask · APIs · Automation |
+| 📊 **Data Analytics**      | Analyse, Aufbereitung und Visualisierung von Daten mit Python.                                                    | Pandas · NumPy · Python   |
+
+---
+
+### 🎯 Projektfokus
+
+| Bereich                   | Projekte                    |
+| ------------------------- | --------------------------- |
+| 🤖 KI & Automatisierung   | Quizzly, Terminbuchungstool |
+| 🌐 Backend-Entwicklung    | Videoflix, KanMind          |
+| 🗄️ Datenbanken & APIs    | Videoflix, KanMind          |
+| 📊 Datenanalyse           | Data Analytics              |
+| 🔐 DevSecOps & Deployment | Laufender Lernschwerpunkt   |
+
 
 Ich freue mich über Austausch, Feedback und spannende Möglichkeiten im IT-Bereich.
 
