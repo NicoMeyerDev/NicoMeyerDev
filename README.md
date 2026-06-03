@@ -42,7 +42,7 @@ Auf dem Weg in die IT – fokussiert, neugierig und praxisorientiert.
 | 🤖 KI & Automatisierung   | Quizzly, Terminbuchungstool |
 | 🌐 Backend-Entwicklung    | Videoflix, KanMind          |
 | 🗄️ Datenbanken & APIs    | Videoflix, KanMind          |
-| 📊 Datenanalyse           | Data Analytics              |
+| 📊 Datenanalyse           | Data Analytics  eines Caffes|
 | 🔐 DevSecOps & Deployment | Laufender Lernschwerpunkt   |
 
 
