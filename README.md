@@ -1,8 +1,10 @@
-Ich bin Quereinsteiger mit militärischem Hintergrund und befinde mich in einer intensiven Weiterbildungsphase im Bereich Backend-Entwicklung und DevSecOps.
-Meine Bundeswehr-Zeit hat mir Disziplin, Belastbarkeit und strukturiertes Arbeiten unter Druck mitgegeben – Eigenschaften die ich jetzt gezielt in der IT einsetze.
-Technisch arbeite ich mit Python, Django und Django REST Framework. In meinen Projekten habe ich unter anderem eine Video-Streaming-Plattform und ein KI-gestütztes Quiz-Tool gebaut – beide produktionsnah mit Docker, PostgreSQL und JWT-Authentifizierung umgesetzt.
-Aktuell erweitere ich mein Profil Richtung DevSecOps.
-Ich bin offen für Praktika und Junior-Stellen im Backend- oder DevOps-Bereich.
+👋 Über mich
+
+Ich bin Quereinsteiger mit militärischem Hintergrund und entwickle mich aktuell gezielt in den Bereichen Backend-Entwicklung und DevSecOps weiter.
+🎖️ Durch meine Zeit bei der Bundeswehr habe ich Disziplin, Belastbarkeit und eine strukturierte Arbeitsweise gelernt. Diese Eigenschaften bringe ich heute in meine technische Weiterbildung und Projektarbeit ein.
+💻 Mein Schwerpunkt liegt derzeit auf Python, Django und Django REST Framework. Im Rahmen meiner Weiterbildung habe ich bereits mehrere praxisnahe Projekte umgesetzt, darunter eine Video-Streaming-Plattform sowie ein KI-gestütztes Quiz-Tool.
+🚀 Dabei arbeite ich unter anderem mit Docker, PostgreSQL, REST-APIs und JWT-Authentifizierung.
+🔐 Aktuell erweitere ich meine Kenntnisse im Bereich DevSecOps mit Fokus auf Automatisierung, Sicherheit und moderne Entwicklungsprozesse.
 
 ### 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
