@@ -1,13 +1,8 @@
-Hey, ich bin Nico 👋
-
-Auf dem Weg in die IT – fokussiert, neugierig und praxisorientiert.
-
-🧭 Über mich
-🐍 Lerne Backend-Entwicklung mit Python, Django & Flask
-🔐 Interesse an DevSecOps, Automatisierung und Prozessoptimierung
-⚙️ Entwickle Tools zur Vereinfachung und Automatisierung von Abläufen
-📊 Begeistert von Datenanalyse und datengetriebenen Entscheidungen
-🚀 Ziel: Einstieg in die IT als Backend- oder DevSecOps-Entwickler
+Ich bin Quereinsteiger mit militärischem Hintergrund und befinde mich in einer intensiven Weiterbildungsphase im Bereich Backend-Entwicklung und DevSecOps.
+Meine Bundeswehr-Zeit hat mir Disziplin, Belastbarkeit und strukturiertes Arbeiten unter Druck mitgegeben – Eigenschaften die ich jetzt gezielt in der IT einsetze.
+Technisch arbeite ich mit Python, Django und Django REST Framework. In meinen Projekten habe ich unter anderem eine Video-Streaming-Plattform und ein KI-gestütztes Quiz-Tool gebaut – beide produktionsnah mit Docker, PostgreSQL und JWT-Authentifizierung umgesetzt.
+Aktuell erweitere ich mein Profil Richtung DevSecOps.
+Ich bin offen für Praktika und Junior-Stellen im Backend- oder DevOps-Bereich.
 
 ### 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
