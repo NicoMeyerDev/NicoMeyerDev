@@ -26,7 +26,7 @@ Ein fester Teil meines Workflows: Ich setze KI-Tools gezielt als Entwicklungspar
 
 | Projekt | Beschreibung | Technologien |
 |---|---|---|
-| ⚽ **Taktix** | Taktik-App für Fußballtrainer zur Live-Kommunikation am Spielfeldrand, entwickelt in Zusammenarbeit mit einem lokalen Verein. Aktuell auf dem Weg zum Live-Test. | Django · DRF · PostgreSQL · React |
+| ⚽ [**Taktix**](https://github.com/NicoMeyerDev/matchday-app) | Taktik-App für Fußballtrainer zur Live-Kommunikation am Spielfeldrand, entwickelt in Zusammenarbeit mit einem lokalen Verein. Aktuell auf dem Weg zum Live-Test. | Django · DRF · PostgreSQL · React |
 | 🎬 **Videoflix** | Business-Webanwendung nach dem Vorbild von Netflix mit Benutzerverwaltung, Authentifizierung und Videomanagement. | Django · DRF · PostgreSQL |
 | 🧠 **Quizzly** | KI-gestützte Anwendung, die aus Videotranskripten automatisch Quizfragen und Lerninhalte erstellt. | Python · Django · KI APIs |
 | 📦 **KanMind** | Kanban-Board zur Organisation von Projekten, Aufgaben und Workflows mit REST-API. | Django · DRF · PostgreSQL |
