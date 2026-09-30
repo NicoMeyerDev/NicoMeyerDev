@@ -39,8 +39,8 @@ Ein fester Teil meines Workflows: Ich setze KI-Tools gezielt als Entwicklungspar
 |---|---|---|
 | 🔑 **Server Hardening via SSH** | Einrichtung eines eigenen Servers mit Key basierter SSH Authentifizierung statt Passwort Login zur Absicherung des Remote Zugriffs. | Linux · SSH · Server Administration |
 | 🌐 **WordPress Setup** | Aufsetzen und Absicherung einer WordPress Instanz. | WordPress · Linux |
-| 🛡️ **Sicherheitslücken Analyse** | Projekt zur gezielten Analyse und Ausnutzung von Sicherheitslücken zum Verständnis gängiger Angriffsvektoren. | *in Arbeit* |
-| 🔧 **Platzhalter** | *Kommt bald* | — |
+| 🛡️ **OWASP Juice Shop** | Projekt zur gezielten Analyse und Ausnutzung von Sicherheitslücken zum Verständnis gängiger Angriffsvektoren. |Kali linux · Virtuellbox · Hashcat · Bursuite ·  |
+| 🔧 **Conduit Container/Deployment** | Containerisierung der App mit eigenem `Dockerfile` und `docker-compose.yaml`; automatisches Deployment über eine CI/CD-Pipeline bei jedem Push | Docker · Docker Compose · YAML · GitHub Actions |
 
 ---
 
